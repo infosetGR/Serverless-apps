@@ -1,0 +1,16 @@
+{
+  "name": "azure-rest-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
